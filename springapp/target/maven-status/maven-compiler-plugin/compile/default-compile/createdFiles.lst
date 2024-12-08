@@ -1,0 +1,6 @@
+com\foodapp\springapp\repository\MeelsRepository.class
+com\foodapp\springapp\rest\MealsRestResource.class
+com\foodapp\springapp\service\MealsService.class
+com\foodapp\springapp\service\Impl\MealsServiceImpl.class
+com\foodapp\springapp\entity\Meals.class
+com\foodapp\springapp\SpringappApplication.class
